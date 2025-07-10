@@ -3,6 +3,7 @@ title: "Modular Agent Orchestrator named Mao"
 description: "Revolutionary AI Workflow Platform for the Modern Era"
 url: "https://seanivore.github.io"
 baseurl: "/mao-docs"
+permalink: pretty
 
 # Theme
 theme: minima
