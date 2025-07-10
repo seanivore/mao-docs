@@ -4,10 +4,11 @@ description: "Revolutionary AI Workflow Platform for the Modern Era"
 url: "https://seanivore.github.io"
 baseurl: "/mao-docs"
 
-# Theme
-remote_theme: pages-themes/minimal@v0.2.0
+# Theme - Using Jekyll's default supported theme for GitHub Pages
+theme: minima
 plugins:
-- jekyll-remote-theme
+- jekyll-feed
+- jekyll-seo-tag
 
 # Markdown settings
 markdown: kramdown
