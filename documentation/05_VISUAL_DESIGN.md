@@ -500,7 +500,7 @@ const ExecutionMonitoringCard = ({
             <div className="progress-bar">
               <div 
                 className="progress-fill"
-                style={{ width: `${progress}%` }}
+                style={{ width: progress + '%' }}
               />
             </div>
             <span className="progress-text">{progress}%</span>
