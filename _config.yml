@@ -1,8 +1,8 @@
 # Jekyll configuration for GitHub Pages
-title: "Modular Agent Orchestrator"
+title: "Modular Agent Orchestrator named Mao"
 description: "Revolutionary AI Workflow Platform for the Modern Era"
 url: "https://seanivore.github.io"
-baseurl: "/modular-agent-orchestrator"
+baseurl: "/mao-docs"
 
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
@@ -46,4 +46,4 @@ header_pages:
 
 # GitHub Pages settings
 github:
-  repository_name: modular-agent-orchestrator
+  repository_name: mao-docs

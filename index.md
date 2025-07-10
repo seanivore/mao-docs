@@ -27,14 +27,14 @@ Start with: [The Hook](./documentation/01_THE_HOOK.html) → [Business ROI](./do
 
 ## 📚 Complete Documentation
 
-| Document | Description | Audience |
-|----------|-------------|----------|
-| [📋 Overview](./documentation/00_OVERVIEW.html) | Navigation hub and quick start | All users |
-| [🎯 The Hook](./documentation/01_THE_HOOK.html) | Market crisis to proven results | Business & Investors |
-| [🏗️ Architecture](./documentation/02_ARCHITECTURE.html) | Technical foundations | Developers & CTOs |
-| [👤 User Flow](./documentation/03_USER_FLOW.html) | Complete user journey | End users & Developers |
-| [💰 Business ROI](./documentation/04_BUSINESS_ROI.html) | Investment case | Business & Investors |
-| [🎨 Visual Design](./documentation/05_VISUAL_DESIGN.html) | UI implementation | Developers & Designers |
+| Document                                                 | Description                     | Audience               |
+| -------------------------------------------------------- | ------------------------------- | ---------------------- |
+| [📋 Overview](./documentation/00_OVERVIEW.html)           | Navigation hub and quick start  | All users              |
+| [🎯 The Hook](./documentation/01_THE_HOOK.html)           | Market crisis to proven results | Business & Investors   |
+| [🏗️ Architecture](./documentation/02_ARCHITECTURE.html)   | Technical foundations           | Developers & CTOs      |
+| [👤 User Flow](./documentation/03_USER_FLOW.html)         | Complete user journey           | End users & Developers |
+| [💰 Business ROI](./documentation/04_BUSINESS_ROI.html)   | Investment case                 | Business & Investors   |
+| [🎨 Visual Design](./documentation/05_VISUAL_DESIGN.html) | UI implementation               | Developers & Designers |
 
 ---
 
