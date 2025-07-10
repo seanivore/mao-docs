@@ -7,9 +7,6 @@ permalink: pretty
 
 # Theme
 theme: jekyll-theme-minimal
-plugins:
-- jekyll-feed
-- jekyll-seo-tag
 
 # Markdown settings
 markdown: kramdown
