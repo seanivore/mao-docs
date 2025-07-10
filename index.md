@@ -15,26 +15,26 @@ title: Home
 ## 🚀 Quick Navigation
 
 ### **For Business Leaders**
-Start with: [The Hook](./documentation/01_THE_HOOK.html) → [Business ROI](./documentation/04_BUSINESS_ROI.html)
+Start with: [The Hook](./documentation/01_THE_HOOK) → [Business ROI](./documentation/04_BUSINESS_ROI)
 
 ### **For Developers** 
-Start with: [Overview](./documentation/00_OVERVIEW.html) → [Architecture](./documentation/02_ARCHITECTURE.html)
+Start with: [Overview](./documentation/00_OVERVIEW) → [Architecture](./documentation/02_ARCHITECTURE)
 
 ### **For Investors**
-Start with: [The Hook](./documentation/01_THE_HOOK.html) → [Business ROI](./documentation/04_BUSINESS_ROI.html) → [Architecture](./documentation/02_ARCHITECTURE.html)
+Start with: [The Hook](./documentation/01_THE_HOOK) → [Business ROI](./documentation/04_BUSINESS_ROI) → [Architecture](./documentation/02_ARCHITECTURE)
 
 ---
 
 ## 📚 Complete Documentation
 
-| Document                                                 | Description                     | Audience               |
-| -------------------------------------------------------- | ------------------------------- | ---------------------- |
-| [📋 Overview](./documentation/00_OVERVIEW.html)           | Navigation hub and quick start  | All users              |
-| [🎯 The Hook](./documentation/01_THE_HOOK.html)           | Market crisis to proven results | Business & Investors   |
-| [🏗️ Architecture](./documentation/02_ARCHITECTURE.html)   | Technical foundations           | Developers & CTOs      |
-| [👤 User Flow](./documentation/03_USER_FLOW.html)         | Complete user journey           | End users & Developers |
-| [💰 Business ROI](./documentation/04_BUSINESS_ROI.html)   | Investment case                 | Business & Investors   |
-| [🎨 Visual Design](./documentation/05_VISUAL_DESIGN.html) | UI implementation               | Developers & Designers |
+| Document                                            | Description                     | Audience               |
+| --------------------------------------------------- | ------------------------------- | ---------------------- |
+| [📋 Overview](./documentation/00_OVERVIEW)           | Navigation hub and quick start  | All users              |
+| [🎯 The Hook](./documentation/01_THE_HOOK)           | Market crisis to proven results | Business & Investors   |
+| [🏗️ Architecture](./documentation/02_ARCHITECTURE)   | Technical foundations           | Developers & CTOs      |
+| [👤 User Flow](./documentation/03_USER_FLOW)         | Complete user journey           | End users & Developers |
+| [💰 Business ROI](./documentation/04_BUSINESS_ROI)   | Investment case                 | Business & Investors   |
+| [🎨 Visual Design](./documentation/05_VISUAL_DESIGN) | UI implementation               | Developers & Designers |
 
 ---
 
