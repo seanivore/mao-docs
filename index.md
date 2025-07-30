@@ -33,19 +33,19 @@ Start with: What **[actually using the tool](./documentation/03_USER_FLOW)** wou
 
 ## Complete Documentation Collection 
 
-| Collection Section                                             | Description                     |
-| -------------------------------------------------------------- | ------------------------------- |
-| [Overview](./documentation/00_OVERVIEW)                        | Table of contents in narrative  |
-| [Evolving AI](./documentation/01_EVOLVING_AI)                  | Introduction to the brand story |
-| [Reference](./documentation/02_REFERENCE)                      | Quick reference helper section  |
-| [User Flow](./documentation/03_USER_FLOW)                      | Complete user journey           |
-| [Mao's Flow](./documentation/04_MAOS_FLOW)                     | Mao's work during user journey  |
-| [Interface](./documentation/05_INTERFACE)                      | Where data enters the system    |
-| [Orchestration](./documentation/06_ORCHESTRATION)              | How data is processed           |
-| [Memory Analytics](./documentation/07_ANALYTICS_MEMORY)        | Innovative memory and analytics |
-| [Autonomous Growth](./documentation/08_AUTOMATE_INTELLIGENCE)  | Automating entire businesses    |
-| [About The Future](./documentation/09_FUTURE_THINKING)         | Development-ready v4.1.0 plans  |
-| [File Index](./documentation/10_AI_DEV_INDEX)                  | AI coding accuracy guide        |
+| Collection Section                                                | Description                     |
+| ----------------------------------------------------------------- | ------------------------------- |
+| [Overview](./documentation/00_OVERVIEW)                           | Table of contents in narrative  |
+| [Evolving AI](./documentation/01_EVOLVING_AI)                     | Introduction to the brand story |
+| [Reference](./documentation/02_REFERENCE)                         | Quick reference helper section  |
+| [User Flow](./documentation/03_USER_FLOW)                         | Complete user journey           |
+| [Mao's Flow](./documentation/04_MAOS_FLOW)                        | Mao's work during user journey  |
+| [Interface](./documentation/05_INTERFACE)                         | Where data enters the system    |
+| [Orchestration](./documentation/06_ORCHESTRATION)                 | How data is processed           |
+| [Memory Analytics](./documentation/07_ANALYTICS_MEMORY)           | Innovative memory and analytics |
+| [Autonomous Growth](./documentation/08_AUTOMATE_INTELLIGENCE)     | Automating entire businesses    |
+| [About The Future](./documentation/09_FUTURE_THINKING)            | Development-ready v4.1.0 plans  |
+| [File Index](./documentation/10_AI_DEV_INDEX)                     | AI coding accuracy guide        |
 
 ---
 
@@ -60,7 +60,7 @@ Start with: What **[actually using the tool](./documentation/03_USER_FLOW)** wou
 - **Application adapts** easily along with the industry's rapid changes 
 - **Cross compatible** by design without complex code SDK translating 
 
-When in doubt, AI often becomes the code, the logic in natural language. 
+When in doubt, AI often *becomes* the code, the logic in natural language. 
 
 ### Innovation Leadership
 - **Conversation-driven interface** virtually eliminating learning curve
