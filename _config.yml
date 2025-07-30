@@ -1,6 +1,6 @@
 # Jekyll configuration for GitHub Pages
-title: "Modular Agent Orchestrator named Mao"
-description: "Revolutionary AI Workflow Platform for the Modern Era"
+title: "Mao Is A Self-Enhancing, Evolving AI"
+description: "We stopped automating workflows and started automating intelligence instead."
 url: "https://seanivore.github.io"
 baseurl: "/mao-docs"
 permalink: pretty
@@ -20,8 +20,13 @@ kramdown:
 # Navigation
 header_pages:
   - documentation/00_OVERVIEW.md
-  - documentation/01_THE_HOOK.md
-  - documentation/02_ARCHITECTURE.md
+  - documentation/01_EVOLVING_AI.md
+  - documentation/02_REFERENCE.md
   - documentation/03_USER_FLOW.md
-  - documentation/04_BUSINESS_ROI.md
-  - documentation/05_VISUAL_DESIGN.md
+  - documentation/04_MAOS_FLOW.md
+  - documentation/05_INTERFACE.md
+  - documentation/06_ORCHESTRATION.md
+  - documentation/07_ANALYTICS_MEMORY.md
+  - documentation/08_AUTOMATE_INTELLIGENCE.md
+  - documentation/09_FUTURE_THINKING.md
+  - documentation/10_AI_DEV_INDEX.md
