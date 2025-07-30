@@ -1,31 +1,32 @@
 # Section I: Your Introduction to Self-Evolving AI
 *Mao is full of innovative solutions that have never been done before.*
+
 ---
 
 This is where everything changes. Not incrementally, not gradually, but fundamentally. Mao represents the first time artificial intelligence becomes your genuinely intelligent collaborator, rather than sophisticated automation. This isn't about getting better results from AI tools, it's about AI that thinks strategically, learns continuously, and enhances its own capabilities while working alongside you as a true partner. 
 
 ---
 
-## Exponentially Uncomprehendable Numbers Reveal Everything 
+## Numbers that Are Exponentially Beyond Comprehension
 
-The AI industry is experiencing unprecedented growth that defies traditional understanding:
+The AI industry is experiencing unprecedented growth that defies traditional understanding; the scale *reveals everything* about the future in virtually all business industries and our social structure.
 
 - **+8X in 17 months** — AI users (800 million)
 - **+20M from 2022** — GPT subscribers 
 - **+100X in 6 years** — Nvidia GPU compute installed 
 - **+49% since 2023** — data center growth 
 
-But here's where it gets mind-bending:
+THis part is truly mind-bending. 
 
 - **-105,000X in 10 years** — energy required per token generated
 - **-99.7% in 2 years** — cost to serve a model 
 
-To put this in perspective:
+Let's at least *try* to give that some perspective. 
 
 - **Same 360 billion web searches:** Google took 11 years = GPT took 2 years
 - **Same % drop in cost:** Lightbulb took 75 years = 75-word response took 2 years
 
-Yes, that is 105,000 multiplied by itself 105,000 times. That is why AI suddenly became so possible.
+Yes, that is 105,000 multiplied by itself 105,000 times. That is why AI suddenly became so possible. And why AI is suddenly everywhere. 
 
 ### Small Players Need To Be Smart
 
@@ -37,7 +38,7 @@ This story repeats constantly as AI tech giants improve their models. Humans and
 
 ---
 
-## Our Problem Is Clear
+## The Problem Is Clear
 
 The industry will not stop changing any time soon:
 
