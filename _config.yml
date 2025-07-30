@@ -1,6 +1,6 @@
 # Jekyll configuration for GitHub Pages
 title: "Mao: Learning Curve-Free, Modular, Agentic Automation"
-description: "A single-screen user interface, that is just a chat with Mao about projects to do."
+description: "Share your goals with Mao. They'll put them in action."
 url: "https://seanivore.github.io"
 baseurl: "/mao-docs"
 permalink: pretty
