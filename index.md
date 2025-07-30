@@ -8,7 +8,7 @@ title: Home
 ## Revolutionary AI Workflow Platform for the Modern Era
 
 **Version:** 4.0.0
-**Compliance Achievement:** 96%+ across 230+ files (systematic standardization ongoing)  
+**Compliance Achievement:** 96%+ across 230+ files 
 **Development Philosophy:** Modular, Self-Enhancing, Business-Ready  
 
 ---
@@ -16,16 +16,16 @@ title: Home
 ## User's Personal Journey Recommendation 
 
 ### **For Business Leaders**
-Start with: Incredibly innovative [and valuable memory and analytics combination](./documentation/07_ANALYTICS_MEMORY), then move to [automations that Mao autonomously does enhancing their own app](./documentation/08_AUTOMATE_INTELLIGENCE) that could automate an actual entire business, and end with [looking into what is coming in the future](./documentation/09_FUTURE_THINKING). 
+Start with: Incredibly innovative **[and valuable memory and analytics combination](./documentation/07_ANALYTICS_MEMORY)**, then move to **[automations that Mao autonomously does enhancing their own app](./documentation/08_AUTOMATE_INTELLIGENCE)** that could automate an actual entire business, and end with **[looking into what is coming in the future](./documentation/09_FUTURE_THINKING)**. 
 
 ### **For Developers** 
-Start with: A quick [overview that touches on each topic](./documentation/00_OVERVIEW), then move to the [reference document for another overview of concepts](./documentation/02_REFERENCE), and then [dive into the meat of the build](./documentation/06_ORCHESTRATION). Oh, and if you develop with AI, check out the [AI development file index](./documentation/10_AI_DEV_INDEX). 
+Start with: A quick **[overview that touches on each topic](./documentation/00_OVERVIEW)**, then move to the **[reference document for another overview of concepts](./documentation/02_REFERENCE)**, and then **[dive into the meat of the build](./documentation/06_ORCHESTRATION)**. Oh, and if you develop with AI, check out the **[AI development file index](./documentation/10_AI_DEV_INDEX)**. 
 
 ### **For Investors**
-Start with: The story [of where Mao came from along with the philosophy](./documentation/01_EVOLVING_AI), then move on to appreciation the [value of memory combined with analytics data](./documentation/07_ANALYTICS_MEMORY), and then see how the tool [can literally run its own business](./documentation/08_AUTOMATE_INTELLIGENCE) if someone sets Mao up to. 
+Start with: The story **[of where Mao came from along with the philosophy](./documentation/01_EVOLVING_AI)**, then move on to appreciation the **[value of memory combined with analytics data](./documentation/07_ANALYTICS_MEMORY)**, and then see how the tool **[can literally run its own business](./documentation/08_AUTOMATE_INTELLIGENCE)** if someone sets Mao up to. 
 
 ### **For the Everyday Millennial**
-Start with: What [actually using the tool](./documentation/03_USER_FLOW) would be like, and then look at how it [evolves to become more emotionally intelligent](./documentation/07_ANALYTICS_MEMORY), before wrapping up by [understanding the full power of Mao](./documentation/08_AUTOMATE_INTELLIGENCE)
+Start with: What **[actually using the tool](./documentation/03_USER_FLOW)** would be like, and then look at how it **[evolves to become more emotionally intelligent](./documentation/07_ANALYTICS_MEMORY)**, before wrapping up by **[understanding the full power of Mao](./documentation/08_AUTOMATE_INTELLIGENCE)**.
 
 ---
 
